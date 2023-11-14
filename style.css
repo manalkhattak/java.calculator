@@ -22,7 +22,20 @@ button{
    padding-left: 15px;
    padding-right: 15px;
 }
-
+.placeholder1{
+   font-size: x-large;
+   font-weight: 100px;
+   border-radius: 10px;
+   padding-left: 20px;
+   border-color: #4E9E47;
+}
+.placeholder2{
+   font-size: x-large;
+   font-weight: 200px;
+   border-radius: 10px;
+   padding-left: 20px;
+   border-color: #4E9E47;
+}
    
 
 
